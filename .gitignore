@@ -1,0 +1,3 @@
+.venv
+catalog/apps.py
+db.sqlite3
